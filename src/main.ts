@@ -1,6 +1,6 @@
 import { analytics } from "./modules/analytics.js"
 
-const message: string = "Hello would!"
+const message: string = "Hello, Dima!"
 const ssss = 5
 
 console.log(message)
